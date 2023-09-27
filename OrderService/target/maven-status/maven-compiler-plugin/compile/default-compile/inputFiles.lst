@@ -1,0 +1,10 @@
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/model/Order.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/OrderServiceApplication.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/dto/OrderLineItemsdto.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/config/WebClientConfig.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/controller/OrderController.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/service/OrderService.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/repository/OrderRepository.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/dto/InventoryResponse.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/dto/OrderRequest.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/OrderService/src/main/java/com/microservices/orderservice/model/OrderLineItem.java

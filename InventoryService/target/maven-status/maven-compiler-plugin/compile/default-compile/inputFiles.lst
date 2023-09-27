@@ -1,0 +1,6 @@
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/InventoryService/src/main/java/com/microservices/inventoryservice/InventoryServiceApplication.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/InventoryService/src/main/java/com/microservices/inventoryservice/service/InventoryService.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/InventoryService/src/main/java/com/microservices/inventoryservice/model/Inventory.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/InventoryService/src/main/java/com/microservices/inventoryservice/controller/InventoryController.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/InventoryService/src/main/java/com/microservices/inventoryservice/repository/InventoryRepository.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/InventoryService/src/main/java/com/microservices/inventoryservice/dto/InventoryResponse.java

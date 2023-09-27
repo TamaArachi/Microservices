@@ -1,0 +1,7 @@
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/ProductService/src/main/java/com/microservice/productapp/ProductAppMicroServiceApplication.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/ProductService/src/main/java/com/microservice/productapp/service/ProductService.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/ProductService/src/main/java/com/microservice/productapp/model/Product.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/ProductService/src/main/java/com/microservice/productapp/repository/ProductRepository.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/ProductService/src/main/java/com/microservice/productapp/dto/ProductRequest.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/ProductService/src/main/java/com/microservice/productapp/dto/ProductResponse.java
+/Users/mac/Documents/Mona/Workspace/springboot/microservices-project/ProductService/src/main/java/com/microservice/productapp/controller/ProductController.java
